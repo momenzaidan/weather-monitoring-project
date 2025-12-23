@@ -10,8 +10,8 @@ An end-to-end data engineering pipeline that automates real-time weather collect
 ## 👥 The Engineering Team
 | Role | Name | Technical Focus |
 | :--- | :--- | :--- |
-| **Data Engineer** | AHMED BOBANE | AWS EC2, Crontab Automation, .env Security |
-| **Data Scientist** | OSAMA ABDULKADIR | EDA, Linear Regression Modeling, Jupyter Research |
+| **Data Engineer** | AHMED BOBANE | AWS EC2, Crontab Automation |
+| **Data Scientist** | OSAMA ABDULKADIR | EDA, Jupyter Research |
 | **Full-Stack Dev** | ABDALMOUMEN ZA DAHMAN | Streamlit UI, Git Version Control, API Integration |
 
 ---
