@@ -8,7 +8,7 @@ import os
 from dotenv import load_dotenv
 
 # Load environment variables from the .env file
-load_dotenv(dotenv_path='/home/ubuntu/weather-monitoring-project/.env')
+load_dotenv()
 
 # --- Configuration ---
 # Retrieve the sensitive key and city from the environment (safe)
