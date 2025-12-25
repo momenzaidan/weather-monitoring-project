@@ -58,4 +58,5 @@ Located in `notebooks/02_Baseline_Modeling.ipynb`. We implemented a **Linear Reg
 * **Alerting System**: Adding an automated email/SMS alert for extreme weather conditions in Riyadh.
 
 ---
+> **IMPORTANT NOTE**: The collabrator in this project all worked on this project codes but momenzaidan did all the uplod and commit jop since we are a friends and live and work toghther.
 > **Final Project Status**: System is currently operational and updating the dataset hourly.
